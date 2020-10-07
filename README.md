@@ -1,4 +1,4 @@
-# Real-time-Chatting-dating-app-with-firebase
+# Musician's app
 
 this project have these features : 
 
