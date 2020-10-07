@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205241211675",
+    "firebase_url": "https://music-2-abdf8.firebaseio.com",
+    "project_id": "music-2-abdf8",
+    "storage_bucket": "music-2-abdf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205241211675:android:5f3649b1ed130a53ab91be",
+        "android_client_info": {
+          "package_name": "com.naeemdev.realtimechatwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205241211675-mionmnptfk604muo02onded1c2opvs2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naeemdev.realtimechatwithfirebase",
+            "certificate_hash": "c9cf046e10832d82592492062b2da60f1c704a0f"
+          }
+        },
+        {
+          "client_id": "205241211675-cv0ajh90usnc1053poebngfgh8lvjmbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkvSNu0nGMdQKVxCqOD2avr1tfgQrK8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205241211675-cv0ajh90usnc1053poebngfgh8lvjmbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
